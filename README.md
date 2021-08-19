@@ -22,7 +22,7 @@ Visualizar o projeto: [clique aqui](http://botao-modo-noturno.epizy.com/?i=1)
 
 <div align="center">
 
-# Botão Modo Noturno
+# Night Mode Button
 
 </div>
 
